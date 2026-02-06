@@ -31,60 +31,59 @@
      printf ("\n press 10 for October");
      printf ("\n press 11 for November");
      printf ("\n press 12 for December");
+  
      printf ("\n Enter your month number");
      scanf ("\n %d", &month);
      
       switch(month){
       case 1: 
-      printf ("Your month is January");
+      printf ("\n Your month is January");
       break ;
       
       case 2: 
-      printf ("Your month is February ");
+      printf ("\n Your month is February ");
       break ;
       
       case 3: 
-      printf ("Your month is  March ");
+      printf ("\n Your month is  March ");
       break ;
       
       case 4: 
-      printf ("Your month is April");
+      printf ("\n Your month is April");
       break ;
       
       case 5: 
-      printf ("Your month is may");
+      printf ("\n Your month is may");
       break ;
       
       case 6: 
-      printf ("Your month is  June");
+      printf ("\n Your month is  June");
       break ;
       
       case 7: 
-      printf ("Your month is July");
+      printf ("\n Your month is July");
       break ;
       
       case 8: 
-      printf ("Your month is August");
+      printf ("\n Your month is August");
       break ;
       
       case 9: 
-      printf ("Your month is September");
+      printf ("\n Your month is September");
       break ;
       
       case 10: 
-      printf ("Your month is October");
+      printf ("\n Your month is October");
       break ;
       
       case 11: 
-      printf ("Your month is November");
+      printf ("\n Your month is November");
       break ;
       
       case 12: 
-      printf ("Your month is December");
+      printf ("\n Your month is December");
       break ;
-      
-     
-      
+       
       default: printf ("Month is not valid");
       }
      return 0 ;

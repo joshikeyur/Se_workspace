@@ -1,29 +1,27 @@
 # 👋 Hi, I'm Keyur Joshi
 
-🎓 **Student | Aspiring Software Developer |**
+🎓 **Student | Aspiring Business analyst |**
 
-I am a passionate student learning programming and modern technologies.  
-Currently focusing on **Python, AI/ML**, and **Google Workspace tools**.  
-I enjoy building logical programs and improving my problem-solving skills.
+I am a passionate student learning businesses and modern technologies.  
+Currently focusing on **Python (Pandas), Excel , Google sheet**, and **Google Workspace tools**.  
+I enjoy work in google sheet on Data, logical business ideas and improving my problem-solving skills.
 
 ---
 
 ## 🚀 Skills & Learning
 
-🟢 Programming Languages   
-- Python
+🟢 Languages for Data    
+- Python {Pandas}
 - SQL
     
 
 🟢 Technologies & Tools  
-- Artificial Intelligence (Beginner)  
-- Machine Learning (Beginner)  
+- Artificial Intelligence (Beginner)   
 - Google Sheets  
 - Google Workspace Apps  
 
 🟢 Currently Learning  
-- Python for Data & AI   
-- Basics of Machine Learning  
+- Python for Data & AI     
 
 ---
 
